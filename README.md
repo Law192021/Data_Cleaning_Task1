@@ -1,32 +1,93 @@
-This project focuses on cleaning an employee dataset using Python and Pandas.
+# Employee Data Cleaning and Visualization
 
-- Total Rows: 105
-- Total Columns: 7
-- Missing Values: 55
-- Duplicate Rows: 5
+## Project Overview
+This project focuses on cleaning employee data and creating meaningful visualizations using Python libraries.
 
-1. Loaded the dataset using Pandas.
-2. Identified and handled missing values.
-3. Converted columns into appropriate data types.
-4. Removed duplicate records.
-5. Standardized text columns.
-6. Detected salary outliers using the IQR method.
-7. Capped outlier values.
-8. Generated a before-and-after cleaning summary.
+The project includes data cleaning, data analysis, and five different visualizations using Matplotlib.
 
-- `dataset.csv` – Original dataset
-- `clean_data.csv` – Cleaned dataset
-- `cleaning_summary.csv` – Cleaning summary
+## Project Structure
 
+```text
+Data_Cleaning_Task1/
+│
+├── data/
+│   └── clean_data.csv
+│
+├── reports/
+│   ├── figures/
+│   ├── summary_report.md
+│   └── visualisations.html
+│
+├── visualisations.ipynb
+├── requirements.txt
+└── README.md
+```
+
+## Technologies Used
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Jupyter Notebook
+
+## Installation
+
+Clone the repository:
 
 ```bash
-python data_cleaning.py
+git clone https://github.com/Law192021/Data_Cleaning_Task1.git
 ```
 
-- Rows reduced from 105 to 100.
-- Duplicate rows reduced from 5 to 0.
-- Missing values reduced from 55 to 10.
-- Remaining 10 missing Join_Date values are intentionally preserved and flagged.
+Navigate to the project folder:
+
+```bash
+cd Data_Cleaning_Task1
+```
+
+Create a virtual environment:
+
+```bash
+python -m venv .venv
+```
+
+Activate the virtual environment:
+
+```bash
+.venv\Scripts\activate
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run the Project
+
+Start Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Open `visualisations.ipynb` and run all cells.
+
+## Visualizations
+
+The project contains five visualizations:
+
+1. Bar Chart – Employee count by department.
+2. Histogram – Salary distribution.
+3. Scatter Plot – Age vs Salary.
+4. Line Chart – Sorted salary trend.
+5. Box Plot – Salary distribution and outliers.
+
+## Reports
+
+- Summary Report: `reports/summary_report.md`
+- HTML Report: `reports/visualisations.html`
+- Figures: `reports/figures/`
+
+## Conclusion
+
+This project demonstrates how Python data analysis and visualization techniques can help identify useful patterns in employee data.
