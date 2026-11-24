@@ -1,0 +1,106 @@
+Employee_ID,Name,Age,Salary,Department,Join_Date,City
+1,employee_1,,25500,HR,02-01-2024,Madurai
+2, Employee_2 ,,26000,Finance,03-01-2024,Coimbatore
+3,employee_3,,26500,Sales,04-01-2024,Trichy
+4, Employee_4 ,,27000,IT,05-01-2024,Chennai
+5,employee_5,,27500,HR,06-01-2024,Madurai
+6, Employee_6 ,,28000,Finance,07-01-2024,Coimbatore
+7,employee_7,,28500,Sales,08-01-2024,Trichy
+8, Employee_8 ,,29000,IT,09-01-2024,Chennai
+9,employee_9,,29500,HR,10-01-2024,Madurai
+10, Employee_10 ,,30000,Finance,11-01-2024,Coimbatore
+11,employee_11,31,,Sales,12-01-2024,Trichy
+12, Employee_12 ,32,,IT,13-01-2024,Chennai
+13,employee_13,33,,HR,14-01-2024,Madurai
+14, Employee_14 ,34,,Finance,15-01-2024,Coimbatore
+15,employee_15,35,,Sales,16-01-2024,Trichy
+16, Employee_16 ,36,,IT,17-01-2024,Chennai
+17,employee_17,37,,HR,18-01-2024,Madurai
+18, Employee_18 ,38,,Finance,19-01-2024,Coimbatore
+19,employee_19,39,,Sales,20-01-2024,Trichy
+20, Employee_20 ,40,,IT,21-01-2024,Chennai
+21,employee_21,41,35500,,22-01-2024,Madurai
+22, Employee_22 ,42,36000,,23-01-2024,Coimbatore
+23,employee_23,43,36500,,24-01-2024,Trichy
+24, Employee_24 ,44,37000,,25-01-2024,Chennai
+25,employee_25,45,37500,,26-01-2024,Madurai
+26, Employee_26 ,46,38000,,27-01-2024,Coimbatore
+27,employee_27,47,38500,,28-01-2024,Trichy
+28, Employee_28 ,48,39000,,01-01-2024,Chennai
+29,employee_29,49,39500,,02-01-2024,Madurai
+30, Employee_30 ,50,40000,,03-01-2024,Coimbatore
+31,employee_31,51,40500,Sales,04-01-2024,
+32, Employee_32 ,52,41000,IT,05-01-2024,
+33,employee_33,53,41500,HR,06-01-2024,
+34, Employee_34 ,54,42000,Finance,07-01-2024,
+35,employee_35,20,42500,Sales,08-01-2024,
+36, Employee_36 ,21,43000,IT,09-01-2024,
+37,employee_37,22,43500,HR,10-01-2024,
+38, Employee_38 ,23,44000,Finance,11-01-2024,
+39,employee_39,24,44500,Sales,12-01-2024,
+40, Employee_40 ,25,45000,IT,13-01-2024,
+41,employee_41,26,45500,HR,,Madurai
+42, Employee_42 ,27,46000,Finance,,Coimbatore
+43,employee_43,28,46500,Sales,,Trichy
+44, Employee_44 ,29,47000,IT,,Chennai
+45,employee_45,30,47500,HR,,Madurai
+46, Employee_46 ,31,48000,Finance,,Coimbatore
+47,employee_47,32,48500,Sales,,Trichy
+48, Employee_48 ,33,49000,IT,,Chennai
+49,employee_49,34,49500,HR,,Madurai
+50, Employee_50 ,35,50000,Finance,,Coimbatore
+51,employee_51,36,999999,Sales,24-01-2024,Trichy
+52, Employee_52 ,37,51000,IT,25-01-2024,Chennai
+53,employee_53,38,51500,HR,26-01-2024,Madurai
+54, Employee_54 ,39,52000,Finance,27-01-2024,Coimbatore
+55,employee_55,40,52500,Sales,28-01-2024,Trichy
+56, Employee_56 ,41,53000,IT,01-01-2024,Chennai
+57,employee_57,42,53500,HR,02-01-2024,Madurai
+58, Employee_58 ,43,54000,Finance,03-01-2024,Coimbatore
+59,employee_59,44,54500,Sales,04-01-2024,Trichy
+60, Employee_60 ,45,55000,IT,05-01-2024,Chennai
+61,employee_61,46,55500,HR,06-01-2024,Madurai
+62, Employee_62 ,47,56000,Finance,07-01-2024,Coimbatore
+63,employee_63,48,56500,Sales,08-01-2024,Trichy
+64, Employee_64 ,49,57000,IT,09-01-2024,Chennai
+65,employee_65,50,57500,HR,10-01-2024,Madurai
+66, Employee_66 ,51,58000,Finance,11-01-2024,Coimbatore
+67,employee_67,52,58500,Sales,12-01-2024,Trichy
+68, Employee_68 ,53,59000,IT,13-01-2024,Chennai
+69,employee_69,54,59500,HR,14-01-2024,Madurai
+70, Employee_70 ,20,60000,Finance,15-01-2024,Coimbatore
+71,employee_71,21,60500,Sales,16-01-2024,Trichy
+72, Employee_72 ,22,61000,IT,17-01-2024,Chennai
+73,employee_73,23,61500,HR,18-01-2024,Madurai
+74, Employee_74 ,24,62000,Finance,19-01-2024,Coimbatore
+75,employee_75,25,62500,Sales,20-01-2024,Trichy
+76, Employee_76 ,26,63000,IT,21-01-2024,Chennai
+77,employee_77,27,63500,HR,22-01-2024,Madurai
+78, Employee_78 ,28,64000,Finance,23-01-2024,Coimbatore
+79,employee_79,29,64500,Sales,24-01-2024,Trichy
+80, Employee_80 ,30,65000,IT,25-01-2024,Chennai
+81,employee_81,31,65500,HR,26-01-2024,Madurai
+82, Employee_82 ,32,66000,Finance,27-01-2024,Coimbatore
+83,employee_83,33,66500,Sales,28-01-2024,Trichy
+84, Employee_84 ,34,67000,IT,01-01-2024,Chennai
+85,employee_85,35,67500,HR,02-01-2024,Madurai
+86, Employee_86 ,36,68000,Finance,03-01-2024,Coimbatore
+87,employee_87,37,68500,Sales,04-01-2024,Trichy
+88, Employee_88 ,38,69000,IT,05-01-2024,Chennai
+89,employee_89,39,69500,HR,06-01-2024,Madurai
+90, Employee_90 ,40,70000,Finance,07-01-2024,Coimbatore
+91,employee_91,41,70500,Sales,08-01-2024,Trichy
+92, Employee_92 ,42,71000,IT,09-01-2024,Chennai
+93,employee_93,43,71500,HR,10-01-2024,Madurai
+94, Employee_94 ,44,72000,Finance,11-01-2024,Coimbatore
+95,employee_95,45,72500,Sales,12-01-2024,Trichy
+96, Employee_96 ,46,73000,IT,13-01-2024,Chennai
+97,employee_97,47,73500,HR,14-01-2024,Madurai
+98, Employee_98 ,48,74000,Finance,15-01-2024,Coimbatore
+99,employee_99,49,74500,Sales,16-01-2024,Trichy
+100, Employee_100 ,50,75000,IT,17-01-2024,Chennai
+1,employee_1,,25500,HR,02-01-2024,Madurai
+2, Employee_2 ,,26000,Finance,03-01-2024,Coimbatore
+3,employee_3,,26500,Sales,04-01-2024,Trichy
+4, Employee_4 ,,27000,IT,05-01-2024,Chennai
+5,employee_5,,27500,HR,06-01-2024,Madurai
